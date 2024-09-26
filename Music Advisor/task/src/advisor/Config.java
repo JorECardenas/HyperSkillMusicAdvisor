@@ -6,8 +6,8 @@ import java.util.Arrays;
 public class Config {
 
 
-    String clientId = "21549620314c4daa9cfba8897eb33d83";
-    String clientSecret = "fabf40d666b24e6d844e8f28167e83f3";
+    String clientId = "<id>";
+    String clientSecret = "<secret>";
 
     String secrets = clientId + ":" + clientSecret;
 
